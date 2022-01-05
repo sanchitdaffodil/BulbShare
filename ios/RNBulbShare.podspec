@@ -9,9 +9,9 @@ Pod::Spec.new do |s|
   s.homepage     = "https://github.com/sanchitdaffodil/BulbShare"
   s.license      = "MIT"
   # s.license      = { :type => "MIT", :file => "FILE_LICENSE" }
-  s.author             = { "author" => "author@domain.cn" }
+  s.author             = { "author" => "sanchit.srivastava@daffodilsw.com" }
   s.platform     = :ios, "7.0"
-  s.source       = { :git => "https://github.com/author/RNBulbShare.git", :tag => "master" }
+  s.source       = { :git => "https://github.com/sanchitdaffodil/BulbShare.git", :tag => "main" }
   s.source_files  = "RNBulbShare/**/*.{h,m}"
   s.requires_arc = true
 
